@@ -9,6 +9,7 @@ Splendid work in image transformation, including Super-Resolution； Image Compl
 
 ## Image Completion
 * Context Encoders: Feature Learning by Inpainting
+* Semantic Image Inpainting with Deep Generative Models.
 
 
 ## Image Style Transfer
@@ -16,6 +17,7 @@ Splendid work in image transformation, including Super-Resolution； Image Compl
 * Perceptual Losses for Real-Time Style Transferand Super-Resolution.
 * Image-to-Image Translation with Conditional Adversarial Networks.
 * Image style transfer using convolutional neural networks.
+* Unpaired image-to-image translation using cycle-consistent adversarial networks.
 
 ## Semantic Segmentation
 * Fully convolutional networks for semantic segmentation
