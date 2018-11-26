@@ -1,7 +1,7 @@
 # Awesome-Image-Transformation
-Splendid work in image transformation, including c； Image Completion；Image Style Transfer
+Splendid work in image transformation, including Super-Resolution； Image Completion；Image Style Transfer
 
-## Perceptual Losses
+## Super-Resolution
 
 ## Image Completion
 
