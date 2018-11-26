@@ -12,8 +12,10 @@ Splendid work in image transformation, including Super-Resolution； Image Compl
 
 
 ## Image Style Transfer
-* Perceptual Losses for Real-Time Style Transferand Super-Resolution
-* Image-to-Image Translation with Conditional Adversarial Networks
+* A Neural Algorithm of Artistic Style.
+* Perceptual Losses for Real-Time Style Transferand Super-Resolution.
+* Image-to-Image Translation with Conditional Adversarial Networks.
+* Image style transfer using convolutional neural networks.
 
 ## Semantic Segmentation
 * Fully convolutional networks for semantic segmentation
