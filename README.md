@@ -6,9 +6,10 @@ Splendid work in image transformation, including Super-Resolution； Image Compl
 
 ## Image Completion
 * Context Encoders: Feature Learning by Inpainting
-* Image-to-Image Translation with Conditional Adversarial Networks
+
 
 ## Image Style Transfer
 * Perceptual Losses for Real-Time Style Transferand Super-Resolution
+* Image-to-Image Translation with Conditional Adversarial Networks
 
 ## Semantic Segmentation
