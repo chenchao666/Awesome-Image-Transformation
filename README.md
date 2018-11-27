@@ -6,6 +6,7 @@ Splendid work in image transformation, including Super-Resolution； Image Compl
 * Perceptual Losses for Real-Time Style Transferand Super-Resolution
 * Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network.
 * Accurate image super-resolution using very deep convolutional networks
+* Learning a Deep Convolutional Network for Image Super-Resolution
 
 ## Image Completion
 * Context Encoders: Feature Learning by Inpainting
@@ -14,9 +15,9 @@ Splendid work in image transformation, including Super-Resolution； Image Compl
 
 ## Image Style Transfer
 * A Neural Algorithm of Artistic Style.
+* Image style transfer using convolutional neural networks.
 * Perceptual Losses for Real-Time Style Transferand Super-Resolution.
 * Image-to-Image Translation with Conditional Adversarial Networks.
-* Image style transfer using convolutional neural networks.
 * Unpaired image-to-image translation using cycle-consistent adversarial networks.
 
 ## Semantic Segmentation
