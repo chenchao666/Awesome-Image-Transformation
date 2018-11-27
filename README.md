@@ -7,6 +7,7 @@ Splendid work in image transformation, including Super-Resolution； Image Compl
 * Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network.
 * Accurate image super-resolution using very deep convolutional networks
 * Learning a Deep Convolutional Network for Image Super-Resolution
+* Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network
 
 ## Image Completion
 * Context Encoders: Feature Learning by Inpainting
