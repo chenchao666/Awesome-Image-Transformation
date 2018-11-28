@@ -6,8 +6,8 @@ This repo is a collection of AWESOME things about image transformation, includin
 - [Papers](#Papers)
   - [Super-Resolution](#Super-Resolution)
   - [Image Completion](#Image-Completion)
-  - [Image Style Transfer](#Image Style Transfer)
-  - [Semantic Segmentation](#Semantic Segmentation)
+  - [Image Style Transfer](#Image-Style-Transfer)
+  - [Semantic Segmentation](#Semantic-Segmentation)
 
  
 
@@ -26,14 +26,14 @@ This repo is a collection of AWESOME things about image transformation, includin
 * Semantic Image Inpainting with Deep Generative Models.
 
 
-## Image Style Transfer
+## Image-Style-Transfer
 * A Neural Algorithm of Artistic Style.
 * Image style transfer using convolutional neural networks.
 * Perceptual Losses for Real-Time Style Transferand Super-Resolution.
 * Image-to-Image Translation with Conditional Adversarial Networks.
 * Unpaired image-to-image translation using cycle-consistent adversarial networks.
 
-## Semantic Segmentation
+## Semantic-Segmentation
 * Fully convolutional networks for semantic segmentation
 * U-net: Convolutional networks for biomedical image segmentation.
 * Deeplab: Semantic image segmentation with deep convolutional nets, atrous convolution, and fully connected crfs.
