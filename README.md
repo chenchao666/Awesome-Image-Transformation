@@ -5,7 +5,7 @@ This repo is a collection of AWESOME things about image transformation, includin
 # Contents
 - [Papers](#Papers)
   - [Super-Resolution](#Super-Resolution)
-  - [Image Completion](#Image Completion)
+  - [Image Completion](#Image-Completion)
   - [Image Style Transfer](#Image Style Transfer)
   - [Semantic Segmentation](#Semantic Segmentation)
 
@@ -21,7 +21,7 @@ This repo is a collection of AWESOME things about image transformation, includin
 * Learning a Deep Convolutional Network for Image Super-Resolution
 * Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network
 
-## Image Completion
+## Image-Completion
 * Context Encoders: Feature Learning by Inpainting
 * Semantic Image Inpainting with Deep Generative Models.
 
