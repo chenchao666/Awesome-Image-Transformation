@@ -3,8 +3,16 @@
 This repo is a collection of AWESOME things about image transformation, including Super-Resolution； Image Completion；Image Style Transfer. Feel free to star and fork.
 
 # Contents
-Splendid work in 
+- [Papers](#Papers)
+  - [Super-Resolution](#Super-Resolution)
+  - [Super-Resolution](#Image Completion)
+  - [Image Style Transfer](#Image Style Transfer)
+  - [Semantic Segmentation](#Semantic Segmentation)
 
+ 
+
+
+# Papers
 ## Super-Resolution
 * Image super-resolution using deep convolutional networks
 * Perceptual Losses for Real-Time Style Transferand Super-Resolution
