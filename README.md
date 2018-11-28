@@ -5,7 +5,7 @@ This repo is a collection of AWESOME things about image transformation, includin
 # Contents
 - [Papers](#Papers)
   - [Super-Resolution](#Super-Resolution)
-  - [Super-Resolution](#Image Completion)
+  - [Image Completion](#Image Completion)
   - [Image Style Transfer](#Image Style Transfer)
   - [Semantic Segmentation](#Semantic Segmentation)
 
