@@ -1,6 +1,6 @@
 # Awesome-Image-Transformation
 
-This repo is a collection of AWESOME things about image transformation, including Super-Resolution； Image Completion；Image Style Transfer. Feel free to star and fork.
+This repo is a collection of AWESOME things about image transformation, including Super-Resolution； Image Completion；Image Style Transfer and Semantic-Segmentation. Feel free to star and fork.
 
 # Contents
 - [Papers](#Papers)
