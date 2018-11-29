@@ -40,7 +40,9 @@ This repo is a collection of AWESOME things about image transformation, includin
 * Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis. [CVPR2016](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Li_Combining_Markov_Random_CVPR_2016_paper.pdf)
 * Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization. [ICCV2017](http://openaccess.thecvf.com/content_ICCV_2017/papers/Huang_Arbitrary_Style_Transfer_ICCV_2017_paper.pdf)
 * Image-to-Image Translation with Conditional Adversarial Networks.[CVPR2017](http://openaccess.thecvf.com/content_cvpr_2017/papers/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.pdf)
+* Deep Photo Style Transfer. [CVPR2017](http://openaccess.thecvf.com/content_cvpr_2017/papers/Luan_Deep_Photo_Style_CVPR_2017_paper.pdf)
 * Unpaired image-to-image translation using cycle-consistent adversarial networks.[ICCV2017](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.pdf)
+* Controlling perceptual factors in neural style transfer [CVPR2017](http://openaccess.thecvf.com/content_cvpr_2017/papers/Gatys_Controlling_Perceptual_Factors_CVPR_2017_paper.pdf)
 
 ## Semantic-Segmentation
 * Fully convolutional networks for semantic segmentation.[CVPR2015](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
