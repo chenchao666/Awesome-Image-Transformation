@@ -30,18 +30,18 @@ This repo is a collection of AWESOME things about image transformation, includin
 
 ## Image-Style-Transfer
 * A Neural Algorithm of Artistic Style. [Arxiv-2015](https://arxiv.org/pdf/1508.06576.pdf)
-* Image style transfer using convolutional neural networks.[CVPR](2016)
+* Image style transfer using convolutional neural networks.[CVPR](2016)(https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
 * Perceptual Losses for Real-Time Style Transferand Super-Resolution. [ECCV2016](https://arxiv.org/pdf/1603.08155.pdf%7C)
 * Image-to-Image Translation with Conditional Adversarial Networks.[CVPR2017](http://openaccess.thecvf.com/content_cvpr_2017/papers/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.pdf)
 * Unpaired image-to-image translation using cycle-consistent adversarial networks.[ICCV2017](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.pdf)
 
 ## Semantic-Segmentation
-* Fully convolutional networks for semantic segmentation
-* Learning deconvolution network for semantic segmentation.
-* U-net: Convolutional networks for biomedical image segmentation.
+* Fully convolutional networks for semantic segmentation.[CVPR2015](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
+* Learning deconvolution network for semantic segmentation. [ICCV2015](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Noh_Learning_Deconvolution_Network_ICCV_2015_paper.pdf)
+* U-net: Convolutional networks for biomedical image segmentation. [MICCAI2015](https://arxiv.org/pdf/1505.04597.pdf)%E5%92%8C%5bTiramisu%5d(https://arxiv.org/abs/1611.09326.pdf)
 * Semantic image segmentation with deep convolutional nets and fully connected crfs.
-* Deeplab: Semantic image segmentation with deep convolutional nets, atrous convolution, and fully connected crfs.
-* Segnet: A deep convolutional encoder-decoder architecture for image segmentation.
+* Deeplab: Semantic image segmentation with deep convolutional nets, atrous convolution, and fully connected crfs.[TPAMI2017](https://arxiv.org/pdf/1606.00915.pdf)
+* Segnet: A deep convolutional encoder-decoder architecture for image segmentation.[TPAMI2017](https://www.computer.org/csdl/trans/tp/2017/12/07803544.pdf)
   ### GAN-Based
 * Semantic Segmentation using Adversarial Networks. [Arxiv-2016](https://arxiv.org/pdf/1611.08408.pdf)
 
