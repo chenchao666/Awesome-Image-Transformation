@@ -18,14 +18,14 @@ This repo is a collection of AWESOME things about image transformation, includin
 * Image super-resolution using deep convolutional networks [TPAMT2015](https://arxiv.org/pdf/1501.00092.pdf)
 * Accurate image super-resolution using very deep convolutional networks [CVPR2016](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kim_Accurate_Image_Super-Resolution_CVPR_2016_paper.pdf)
 * Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network [CVPR2016](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shi_Real-Time_Single_Image_CVPR_2016_paper.pdf)
-* Perceptual Losses for Real-Time Style Transferand Super-Resolution [ECCV2016](Perceptual Losses for Real-Time Style Transferand Super-Resolution)
+* Perceptual Losses for Real-Time Style Transferand Super-Resolution [ECCV2016](https://arxiv.org/pdf/1603.08155.pdf%7C)
 * Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network. [CVPR2017](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ledig_Photo-Realistic_Single_Image_CVPR_2017_paper.pdf)
 
 
 
 ## Image-Completion
-* Context Encoders: Feature Learning by Inpainting
-* Semantic Image Inpainting with Deep Generative Models.
+* Context Encoders: Feature Learning by Inpainting. [CVPR2016](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Pathak_Context_Encoders_Feature_CVPR_2016_paper.pdf)
+* Semantic Image Inpainting with Deep Generative Models. [CVPR2017](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yeh_Semantic_Image_Inpainting_CVPR_2017_paper.pdf)
 
 
 ## Image-Style-Transfer
@@ -42,4 +42,6 @@ This repo is a collection of AWESOME things about image transformation, includin
 * Semantic image segmentation with deep convolutional nets and fully connected crfs.
 * Deeplab: Semantic image segmentation with deep convolutional nets, atrous convolution, and fully connected crfs.
 * Segnet: A deep convolutional encoder-decoder architecture for image segmentation.
+### GAN-Based
+* Semantic Segmentation using Adversarial Networks. [Arxiv-2016](https://arxiv.org/pdf/1611.08408.pdf)
 
