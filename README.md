@@ -17,9 +17,9 @@ This repo is a collection of AWESOME things about image transformation, includin
 * Learning a Deep Convolutional Network for Image Super-Resolution [ECCV2014](https://www.researchgate.net/profile/Chen_Change_Loy/publication/264552416_Lecture_Notes_in_Computer_Science/links/53e583e50cf25d674e9c280e.pdf)
 * Image super-resolution using deep convolutional networks [TPAMT2015](https://arxiv.org/pdf/1501.00092.pdf)
 * Accurate image super-resolution using very deep convolutional networks [CVPR2016](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kim_Accurate_Image_Super-Resolution_CVPR_2016_paper.pdf)
-* Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network
-* Perceptual Losses for Real-Time Style Transferand Super-Resolution
-* Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network.
+* Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network [CVPR2016](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shi_Real-Time_Single_Image_CVPR_2016_paper.pdf)
+* Perceptual Losses for Real-Time Style Transferand Super-Resolution [ECCV2016](Perceptual Losses for Real-Time Style Transferand Super-Resolution)
+* Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network. [CVPR2017](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ledig_Photo-Realistic_Single_Image_CVPR_2017_paper.pdf)
 
 
 
