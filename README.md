@@ -28,6 +28,7 @@ This repo is a collection of AWESOME things about image transformation, includin
 * Semantic Image Inpainting with Deep Generative Models. [CVPR2017]  (http://openaccess.thecvf.com/content_cvpr_2017/papers/Yeh_Semantic_Image_Inpainting_CVPR_2017_paper.pdf)
 * High-Resolution Image Inpainting using Multi-Scale Neural Patch Systhesis. [CVPR2017](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_High-Resolution_Image_Inpainting_CVPR_2017_paper.pdf)
 * Globally and locally consistent image completion. [TOG2017](http://iizuka.cs.tsukuba.ac.jp/projects/completion/data/completion_sig2017.pdf) [Tensorflow-1](https://github.com/shinseung428/GlobalLocalImageCompletion_TF) [Tensorflow-2](https://github.com/tadax/glcic)
+* Generative image inpainting with contextual attention [CVPR2018](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0456.pdf)
 
 
 ## Image-Style-Transfer
