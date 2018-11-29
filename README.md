@@ -37,6 +37,7 @@ This repo is a collection of AWESOME things about image transformation, includin
 * A Neural Algorithm of Artistic Style. [Arxiv-2015](https://arxiv.org/pdf/1508.06576.pdf)
 * Image style transfer using convolutional neural networks.[CVPR2016](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
 * Perceptual Losses for Real-Time Style Transferand Super-Resolution. [ECCV2016](https://arxiv.org/pdf/1603.08155.pdf%7C)
+* Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis. [CVPR2016](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Li_Combining_Markov_Random_CVPR_2016_paper.pdf)
 * Image-to-Image Translation with Conditional Adversarial Networks.[CVPR2017](http://openaccess.thecvf.com/content_cvpr_2017/papers/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.pdf)
 * Unpaired image-to-image translation using cycle-consistent adversarial networks.[ICCV2017](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.pdf)
 
