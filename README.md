@@ -29,11 +29,11 @@ This repo is a collection of AWESOME things about image transformation, includin
 
 
 ## Image-Style-Transfer
-* A Neural Algorithm of Artistic Style.
-* Image style transfer using convolutional neural networks.
-* Perceptual Losses for Real-Time Style Transferand Super-Resolution.
-* Image-to-Image Translation with Conditional Adversarial Networks.
-* Unpaired image-to-image translation using cycle-consistent adversarial networks.
+* A Neural Algorithm of Artistic Style. [Arxiv-2015](https://arxiv.org/pdf/1508.06576.pdf)
+* Image style transfer using convolutional neural networks.[CVPR](2016)
+* Perceptual Losses for Real-Time Style Transferand Super-Resolution. [ECCV2016](https://arxiv.org/pdf/1603.08155.pdf%7C)
+* Image-to-Image Translation with Conditional Adversarial Networks.[CVPR2017](http://openaccess.thecvf.com/content_cvpr_2017/papers/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.pdf)
+* Unpaired image-to-image translation using cycle-consistent adversarial networks.[ICCV2017](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.pdf)
 
 ## Semantic-Segmentation
 * Fully convolutional networks for semantic segmentation
