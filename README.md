@@ -26,6 +26,7 @@ This repo is a collection of AWESOME things about image transformation, includin
 ## Image-Completion
 * Context Encoders: Feature Learning by Inpainting. [CVPR2016](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Pathak_Context_Encoders_Feature_CVPR_2016_paper.pdf)
 * Semantic Image Inpainting with Deep Generative Models. [CVPR2017](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yeh_Semantic_Image_Inpainting_CVPR_2017_paper.pdf)
+* High-Resolution Image Inpainting using Multi-Scale Neural Patch Systhesis [CVPR2017](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_High-Resolution_Image_Inpainting_CVPR_2017_paper.pdf)
 
 
 ## Image-Style-Transfer
