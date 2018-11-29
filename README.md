@@ -42,6 +42,6 @@ This repo is a collection of AWESOME things about image transformation, includin
 * Semantic image segmentation with deep convolutional nets and fully connected crfs.
 * Deeplab: Semantic image segmentation with deep convolutional nets, atrous convolution, and fully connected crfs.
 * Segnet: A deep convolutional encoder-decoder architecture for image segmentation.
-### GAN-Based
+  ### GAN-Based
 * Semantic Segmentation using Adversarial Networks. [Arxiv-2016](https://arxiv.org/pdf/1611.08408.pdf)
 
