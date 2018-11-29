@@ -20,6 +20,7 @@ This repo is a collection of AWESOME things about image transformation, includin
 * Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network [CVPR2016](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shi_Real-Time_Single_Image_CVPR_2016_paper.pdf)
 * Perceptual Losses for Real-Time Style Transferand Super-Resolution [ECCV2016](https://arxiv.org/pdf/1603.08155.pdf%7C)
 * Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network. [CVPR2017](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ledig_Photo-Realistic_Single_Image_CVPR_2017_paper.pdf)
+* SRFeat Single Image Super-Resolution with Feature Discrimination. [ECCV2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Seong-Jin_Park_SRFeat_Single_Image_ECCV_2018_paper.pdf)
 
 
 
