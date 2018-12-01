@@ -54,3 +54,7 @@ This repo is a collection of AWESOME things about image transformation, includin
   ### GAN-Based
 * Semantic Segmentation using Adversarial Networks. [Arxiv-2016](https://arxiv.org/pdf/1611.08408.pdf)
 
+ ### Segmentation for Medical Image
+* Adversarial training and dilated convolutions for brain MRI segmentation. [Arxiv2017](https://arxiv.org/pdf/1707.03195.pdf)
+* SegAN: Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation. [ Neuroinformatics2018](https://link.springer.com/article/10.1007/s12021-018-9377-x)
+
