@@ -44,6 +44,7 @@ This repo is a collection of AWESOME things about image transformation, includin
 * Unpaired image-to-image translation using cycle-consistent adversarial networks.[ICCV2017](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.pdf)
 * Controlling perceptual factors in neural style transfer [CVPR2017](http://openaccess.thecvf.com/content_cvpr_2017/papers/Gatys_Controlling_Perceptual_Factors_CVPR_2017_paper.pdf)
 * The Contextual Loss for Image Transformation with Non-Aligned Data [ECCV2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Roey_Mechrez_The_Contextual_Loss_ECCV_2018_paper.pdf)
+* Fast Patch-based Style Transfer of Arbitrary Style.
 
 ## Semantic-Segmentation
 * Fully convolutional networks for semantic segmentation.[CVPR2015](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
